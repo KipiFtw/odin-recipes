@@ -1,8 +1,19 @@
+body {
+    background-color: bisque;
+}
+
 h1{
     text-align: center;
 }
 
-img{
-    text-align: center;
-    width: 300px;
+.section{
+    background-color: aliceblue;
+}
+
+.mega-section{
+    width:fit-content;
+}
+
+.centered-image {
+    text-align:center;
 }
